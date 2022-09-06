@@ -14,10 +14,10 @@
           "architecture": "esp32",
           "version": "2.0.3-RC1",
           "category": "ESP32",
-          "url": "https://github.com/pocuter/ArduinoBoard/raw/main/pocuter-2.0.3-RC1.zip",
-          "archiveFileName": "pocuter-2.0.3-RC1.zip",
+          "url": "https://github.com/pocuter/ArduinoBoard/raw/main/pocuter1.0-2.0.3-RC1.zip",
+          "archiveFileName": "pocuter1.0-2.0.3-RC1.zip",
           "checksum": "SHA-256:4E638D8A373B1FB98F34DDA17B3354117F1EA0FAD6AFB49F2FEC4C0F7E0FC014",
-          "size": "243215344",
+          "size": "63261587",
           "help": {
             "online": ""
           },
