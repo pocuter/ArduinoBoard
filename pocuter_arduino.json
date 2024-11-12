@@ -1608,6 +1608,58 @@
           ]
         }
       ]
+    },
+    {
+      "name": "pocuter",
+      "maintainer": "Pocuter GmbH",
+      "websiteURL": "https://www.pocuter.com",
+      "email": "info@pocuter.com",
+      "help": {
+        "online": "https://www.pocuter.com"
+      },
+      "platforms": [
+        {
+          "name": "PocketStar / PocketScreen",
+          "architecture": "samd",
+          "version": "1.0.1",
+          "category": "Contributed",
+          "help": {
+            "online": "https://www.pocuter.com"
+          },
+          "url": "https://github.com/pocuter/ArduinoBoard/raw/main/samd-1.0.1.zip",
+          "archiveFileName": "samd-1.0.1.zip",
+          "checksum": "SHA-256:6b95fe7653cce0815f8bab60782ffba93d4be78eaa668a7e825588c75084c1fd",
+          "size": "7043984",
+          "boards": [
+            {"name": "PocketStar"},
+            {"name": "PocketScreen"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.7.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.9.0-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.0.0-atmel"
+            }
+          ]
+        }
+      ],
+      "tools":[
+      ]
     }
   ]
 }
